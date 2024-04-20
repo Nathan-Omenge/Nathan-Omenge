@@ -19,5 +19,6 @@
 - Pandas
 - SQL
 - Git
+- R
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
