@@ -31,11 +31,11 @@
 ---
 
 ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Omenge&show_icons=true&theme=radical" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Omenge&layout=compact&langs_count=6&theme=radical" height="150px">
 </div>
-
 ---
 
 
