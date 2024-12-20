@@ -38,12 +38,6 @@
 
 ---
 
-## 🔥 GitHub Streak:
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nathan-Omenge&theme=radical" height="150px">
-</div>
-
----
 
 ## 🏆 GitHub Trophies:
 <div align="center">
