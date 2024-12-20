@@ -13,7 +13,8 @@
 ---
 
 ## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/nathan-orango/)  
+- [LinkedIn](https://www.linkedin.com/in/nathan-orango/)
+- [X](https://x.com/adagi04strings)
 - 📫 **Email**: [nathanorango0@gmail.com](mailto:nathanorango0@gmail.com)  
 
 ---
