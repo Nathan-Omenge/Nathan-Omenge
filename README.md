@@ -1,5 +1,5 @@
 # Hey there! 👋  
-### I'm **Nathan Orang'o Omenge**, a Data Science Enthusiast from Nairobi, Kenya 🌍 🇰🇪
+### I'm **Nathan Orang'o Omenge**, a Data Science Enthusiast from Nairobi, Kenya 🌍
 
 ---
 
@@ -8,18 +8,17 @@
 - 🔭 **Passionate about exploring** real-world applications of data science, particularly in **Healthcare** and **Motorsports**.  
 - 🌱 Continuously learning and enhancing skills in **Machine Learning**, **Deep Learning**, and **Data Analytics**.  
 - 💼 Open to **collaborations** on projects related to my areas of interest.  
-- ⚡ **Fun fact**: When I’m not coding, I’m learning about the **technology behind building cars**.  
+- ⚡ **Fun fact**: When I’m not coding, I’m studying  the **technology stack behind building cars** and **Racing**.  
 
 ---
 
 ## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/nathan-orango/)
-- [X](https://x.com/adagi04strings)
+- [LinkedIn](https://www.linkedin.com/in/nathan-orango/)  
 - 📫 **Email**: [nathanorango0@gmail.com](mailto:nathanorango0@gmail.com)  
 
 ---
 
-## 🛠️ My Tech Stack:
+## 🛠️ Technologies I Work With:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
@@ -38,6 +37,13 @@
 
 ---
 
+## 🔥 GitHub Streak:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Omenge&theme=radical" height="150px">
+</div>
+
+---
+
 ## 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nathan-Omenge&theme=radical" height="150px">
@@ -48,6 +54,13 @@
 ## 📈 GitHub Activity Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan-Omenge&theme=radical" />
+</div>
+
+---
+
+## 🧮 Visitor Counter:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nathan-Omenge&color=blueviolet&style=flat-square" />
 </div>
 
 ---
