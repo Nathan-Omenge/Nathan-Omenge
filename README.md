@@ -13,10 +13,10 @@
 ---
 
 ## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/nathan-orango/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-orango/)  
 - 📫 **Email**: [nathanorango0@gmail.com](mailto:nathanorango0@gmail.com)
-- [X](https://x.com/adagi04strings)
-
+- ❌ [X](https://x.com/adagi04strings)
+ 
 ---
 
 ## 🛠️ My Tech Stack:
