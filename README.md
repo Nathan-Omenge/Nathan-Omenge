@@ -33,14 +33,14 @@
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Omenge&show_icons=true&theme=radical" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Omenge&layout=compact&theme=radical" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Omenge&layout=compact&langs_count=6&theme=radical" height="150px">
 </div>
 
 ---
 
 ## 🔥 GitHub Streak:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Omenge&theme=radical" height="150px">
+  <img src="https://streak-stats.demolab.com/?user=Nathan-Omenge&theme=radical" height="150px">
 </div>
 
 ---
