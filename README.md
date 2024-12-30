@@ -8,7 +8,7 @@
 - 🔭 **Passionate about exploring** real-world applications of data science, particularly in **Healthcare** and **Motorsports**.  
 - 🌱 Continuously learning and enhancing skills in **Machine Learning**, **Deep Learning**, and **Data Analytics**.  
 - 💼 Open to **collaborations** on projects related to my areas of interest.  
-- ⚡ **Fun fact**: When I’m not coding, I’m studying  the **technology stack behind building **cars** and **racing them**.  
+- ⚡ **Fun fact**: When I’m not coding, I’m studying  the **technology stack behind building cars** and **racing them**.  
 
 ---
 
