@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0076A8?style=for-the-badge&logo=mathworks&logoColor=Teal)
 
 ---
 
