@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me:
-- 📚 **Currently Pursuing Data Science and Analytics** at United States International University Africa.  
+- 📚 **Currently Pursuing Data Science and Analytics** at United States International University - Africa.  
 - 🔭 **Passionate about exploring** real-world applications of data science, particularly in **Healthcare** and **Motorsports**.  
 - 🌱 Continuously learning and enhancing skills in **Machine Learning**, **Deep Learning**, and **Data Analytics**.  
 - 💼 Open to **collaborations** on projects related to my areas of interest.  
